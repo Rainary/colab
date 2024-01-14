@@ -1,3 +1,2 @@
 # Collaboration
 
-Test text.
